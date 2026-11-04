@@ -1,0 +1,1 @@
+the computer picks a secret number from 1 to 20. The player keeps guessing until they get it or run out of guesses.
